@@ -1,6 +1,9 @@
 # Basics
 
 ## Easy Card (You probably want this)
+
+![easycard](https://www.easycard.com.tw/_upload/images/1803230946050.png)
+
 The "EasyCard" is the subway, bus, and general-use spending card within Taipei.
 It is probably best to purchase one at the airport after you land as it is required to board the purple subway line into Taipei.
 If you do not purchase at the airport, or if you need to add funds, you can do so at any 7-11 or FamilyMart.
@@ -10,8 +13,7 @@ There is no functional difference between the cards.
 
 When using your EasyCard, tap your card when boarding AND exiting the subway or bus.
 
-More info:
-* https://www.taipeitravelgeek.com/taiwan-easycard
+* [More info](https://www.taipeitravelgeek.com/taiwan-easycard)
 
 ### Elayne's Opinion
 She says you don't "need" an EasyCard and can instead buy one time coins to ride the subway.
@@ -44,6 +46,8 @@ If you choose to take the subway or bus, be sure to check your map ahead of time
 Google maps does not do a great job suggesting subway directions but does pretty well with the bus.
 If you choose to get a youbike, you must first get a local phone number and sim card; [check here for more details](https://www.taipeitravelgeek.com/taipei-youbike).
 
+* [Here is a big tourism map pdf](https://eng.taiwan.net.tw/att/files/Taiwan%20Tourist%20Map_1.pdf)
+
 # Things To Do
 ## Sightseeing in Taipei
 * [Taipei 101](https://goo.gl/maps/wuunWe75HxtyJkKr8)
@@ -68,6 +72,9 @@ Here are a few hikes within Taipei:
 * [Bailusishan Trail](https://goo.gl/maps/DMQNDc4iB5nymqYu9)
 * [HuShan Trail](https://goo.gl/maps/cmtqAJ1HG4cYoWKw6)
 
+More Info:
+* [Tourism PDF guide](https://eng.taiwan.net.tw/att/files/Easy%20Hiking_%E9%9B%BB%E5%AD%90%E6%9B%B8-%E5%B7%B2%E5%A3%93%E7%B8%AE.pdf)
+
 ## Travel Around The Island
 
 From Taipei, nearly every destination can be reached via train from [Taipei Main Station](https://goo.gl/maps/ysSXqhir3KvXbshSA).
@@ -75,7 +82,9 @@ High Speed trains go along the west side of the island and regular trains go alo
 
 Rental cars are possible with an international passport, but trains are preferred.
 Note that Taipei Main Station is on top of, and surrounded by, a massive underground mall.
-It can be easy to get lost within this mall; if this happens, follow the signs for Taipei MRT or head up to ground level.
+It can be easy to get lost within this mall; if this happens, follow the signs to head up to ground level.
+
+* [Tourism site's guide to HSR](https://eng.taiwan.net.tw/m1.aspx?sNo=0029047)
 
 # Places outside Taipei
 
@@ -88,6 +97,8 @@ Should you plan to visit these cities, plan other modes of transportation in adv
 One recommended tour is [this 5-day tour](https://edisontours.com/regular-sightseeing/5-day-best-of-taiwan-sun-moon-lake-tarako-gorge-kaohsiung-taitung/) which stops at most of the locations below. You can also view [the same tour (with photos) on TripAdvisor](https://www.tripadvisor.com/AttractionProductReview-g13808515-d11468189-5_Day_Best_of_Taiwan_Sun_Moon_Lake_Tarako_Gorge_Kaohsiung_Taitung-Xinyi_District.html).
 
 ## [Sun Moon Lake](https://goo.gl/maps/Ju8R6Bi8V79sdhPn7)
+
+![sun moon lake](images/sunmoonlake.jpg)
 
 Iconic lake surrounded by mountains. This is a common tourist destination with plenty of hikes, shops, and places to relax.
 
@@ -105,6 +116,10 @@ Kaohsiung and Tainan are two southern cities that are accessible via the HSR (Hi
 If you have not ridden HSR before, I would recommend it. The ride is fast, smooth, and comfy.
 
 Near the train station is [Zuoying Lotus Pond](https://goo.gl/maps/iGCbFWqHdM5Tsjqn9) which is surrounded by tourist attractions.
+
+### Elayne's Opinion
+
+Elayne says that one of the best places to visit in Kaohsiung is [National Sun Yat-sen University](https://goo.gl/maps/CdZNSYairr2Gy7vMA). There are many things to see here including [the old British Consulate](https://goo.gl/maps/SqpLu4Dk2HHvrp5V9), but I'd argue the best reason is that there are monkeys. If you visit this area monkeys may try to steal your food.
 
 # Cultural Notes
 ## Toilets
